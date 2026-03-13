@@ -113,4 +113,4 @@ Distribuido sob a Licenca MIT. Veja [LICENSE](LICENSE) para mais informacoes.
 
 ## Contato
 
-LinkedIn: [Fernando Nunes Coutinho](https://www.linkedin.com/in/fernando-nunes-coutinho/)
+LinkedIn: [Fernando Nunes Coutinho] (https://www.linkedin.com/in/fernando-nunes-coutinho/)
